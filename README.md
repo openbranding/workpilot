@@ -31,6 +31,18 @@ An AI-powered business copilot designed to help businesses automate customer int
 
 An international customer engagement and commerce platform built for modern businesses.
 
+Developed as part of Workpilot's international collaboration initiatives, MerchantPilot combines practical AI and customer engagement technologies to help businesses grow across global markets.
+
+---
+
+## Collaboration
+
+Workpilot believes practical innovation is strengthened through collaboration.
+
+We actively work with strategic partners, developers, and industry specialists to create AI-powered products for local and international markets.
+
+Our collaboration model allows products and initiatives to benefit from global expertise while maintaining a unified product vision and long-term sustainability.
+
 ---
 
 ## Vision
